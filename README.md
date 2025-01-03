@@ -2,6 +2,6 @@
 
 ###
 
-<p align="left">Proceso de creacion desde cero y guia paso a paso</p>
+<p align="left">Proceso de creacion desde cero y guia paso a paso, desde la jcreacion de proyecto de react con vite, la instalacion de tailwindcss y a integracion de Shadcn y el uso de sus componentes</p>
 
 ###
